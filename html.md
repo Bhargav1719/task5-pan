@@ -80,7 +80,7 @@
 ---
 
 3. Design a contact us form with all fields as required.
-
+sol: https://github.com/Bhargav1719/task5-pan/tree/main/contact%20us
 ---
 
 4. Use certain HTML elements to display the following in a HTML page.
@@ -101,11 +101,11 @@
   - MySQL
   - MongoDB
   - Cansandra
-
+sol:https://github.com/Bhargav1719/task5-pan/tree/main/Use%20certain%20HTML%20elements%20to%20display%20the%20following%20in%20a%20HTML%20page
 ---
 
 5. Create an element that helps you to open the https://google.com in separate new tab.
-
+<a href="https://google.com" target="_blank">googlep</a>
 ---
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
